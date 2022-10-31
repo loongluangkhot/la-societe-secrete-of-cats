@@ -1,0 +1,18 @@
+{
+  "name": "0-the-triple-threat-of-frontend",
+  "version": "1.0.0",
+  "description": "## Components 1. **html**: skeleton 2. **css**: skin 3. **js**: behaviours",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

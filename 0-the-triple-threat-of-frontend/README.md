@@ -26,6 +26,9 @@
 - browser engine & global keywords (e.g. document, window)
 - imperative programming
 
+## Other concepts
+- static server
+
 ## Challenges
 The initial design of our website leaked out, and there was intense backlash by the public (particularly the foolish dog lovers!) criticising the lack of dog representation.
 Please fix:
