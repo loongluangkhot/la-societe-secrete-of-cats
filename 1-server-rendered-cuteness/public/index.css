@@ -1,0 +1,32 @@
+:root {
+  --color-cute-blue: aqua;
+}
+
+body {
+  background-image: url("https://media2.giphy.com/media/l3V0HEiQoSPsfkity/giphy.gif?cid=ecf05e47tvgscmd6kbkabjk2d4dzcg1xhca5frb5y3rfg9m1&rid=giphy.gif&ct=g");
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  background-color: var(--color-cute-blue);
+  color: hotpink;
+}
+
+h1.subtitle {
+  font-size: 0.95em;
+}
+
+#cat-img {
+  height: 500px;
+}
+
+.primary-btn {
+  background-color: aqua;
+}
